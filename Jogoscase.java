@@ -37,37 +37,37 @@ public class Jogoscase {
         switch (numero) {
             case 1:
                 // Se o número for 1, exibe God of War
-                System.out.println("🎮 Jogo selecionado: God of War");
+                System.out.println(" Jogo selecionado: God of War");
                
                 break;
                 
             case 2:
                 // Se o número for 2, exibe Doom
-                System.out.println("🎮 Jogo selecionado: Doom");
+                System.out.println(" Jogo selecionado: Doom");
                
                 break;
                 
             case 3:
                 // Se o número for 3, exibe Fortnite
-                System.out.println("🎮 Jogo selecionado: Fortnite");
+                System.out.println(" Jogo selecionado: Fortnite");
                
                 break;
                 
             case 4:
                 // Se o número for 4, exibe Call Of Duty
-                System.out.println("🎮 Jogo selecionado: Call Of Duty");
+                System.out.println(" Jogo selecionado: Call Of Duty");
                 
                 break;
                 
             case 5:
                 // Se o número for 5, exibe FIFA
-                System.out.println("🎮 Jogo selecionado: FIFA");
+                System.out.println(" Jogo selecionado: FIFA");
                
                 break;
                 
             default:
                 // Se o número for diferente de 1 a 5, exibe mensagem de erro
-                System.out.println("❌ Jogo inválido");
+                System.out.println(" Jogo inválido");
                 System.out.println("   Por favor, digite apenas números de 1 a 5.");
         }
         
