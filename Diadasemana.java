@@ -39,49 +39,49 @@ public class Diadasemana {
         switch (numero) {
             case 1:
                 // Se o número for 1, exibe Domingo
-                System.out.println("📅 Dia correspondente: Domingo");
+                System.out.println(" Dia correspondente: Domingo");
                
                 break;
                 
             case 2:
                 // Se o número for 2, exibe Segunda-feira
-                System.out.println("📅 Dia correspondente: Segunda-feira");
+                System.out.println(" Dia correspondente: Segunda-feira");
               
                 break;
                 
             case 3:
                 // Se o número for 3, exibe Terça-feira
-                System.out.println("📅 Dia correspondente: Terça-feira");
+                System.out.println(" Dia correspondente: Terça-feira");
               
                 break;
                 
             case 4:
                 // Se o número for 4, exibe Quarta-feira
-                System.out.println("📅 Dia correspondente: Quarta-feira");
+                System.out.println(" Dia correspondente: Quarta-feira");
                
                 break;
                 
             case 5:
                 // Se o número for 5, exibe Quinta-feira
-                System.out.println("📅 Dia correspondente: Quinta-feira");
+                System.out.println(" Dia correspondente: Quinta-feira");
                 
                 break;
                 
             case 6:
                 // Se o número for 6, exibe Sexta-feira
-                System.out.println("📅 Dia correspondente: Sexta-feira");
+                System.out.println(" Dia correspondente: Sexta-feira");
               
                 break;
                 
             case 7:
                 // Se o número for 7, exibe Sábado
-                System.out.println("📅 Dia correspondente: Sábado");
+                System.out.println(" Dia correspondente: Sábado");
                
                 break;
                 
             default:
                 // Se o número for diferente de 1 a 7, exibe mensagem de erro
-                System.out.println("❌ Dia inválido");
+                System.out.println(" Dia inválido");
                 System.out.println("   Por favor, digite apenas números de 1 a 7.");
         }
         
