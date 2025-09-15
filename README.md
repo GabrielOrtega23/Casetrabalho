@@ -31,6 +31,24 @@
 <img width="329" height="276" alt="image" src="https://github.com/user-attachments/assets/5643a073-cdf2-4459-989e-190944bf9700" />
 
 
+<h2>Jogo favorito</h2>
+<p>Exibe mensagem solicitando a entrada do usuário</p>
+<img width="605" height="286" alt="image" src="https://github.com/user-attachments/assets/e19e4815-5c17-4e9e-9f6a-6d6969bf798b" />
+<p>O int numero = scanner.nextInt(); Lê o número digitado pelo usuário</p>
+<img width="435" height="76" alt="image" src="https://github.com/user-attachments/assets/21782ef6-4738-4cb1-8488-66a5b2d79d47" />
+<p>Usa a estrutura switch-case para determinar o jogo correspondente</p>
+<img width="830" height="199" alt="image" src="https://github.com/user-attachments/assets/5fefee04-3bc7-4b74-916b-a597189e0f6a" />
+<p>Se o número for diferente de 1 a 5, exibe mensagem de erro</p>
+<img width="885" height="148" alt="image" src="https://github.com/user-attachments/assets/f000ec4b-98fa-4d66-8cd3-5da90e83ff46" />
+<p>Deploy</p>
+<img width="326" height="211" alt="image" src="https://github.com/user-attachments/assets/efb2cc53-b547-45c4-96e1-08bd8298f240" />
+
+
+
+
+
+
+
 
 
 
