@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.trabalhotpacase;
+package com.mycompany.frutafavorita;
 import java.util.Scanner;
 /**
  *
  * @author dti
  */
-public class Trabalhotpacase {
+public class Frutafavorita {
 
     public static void main(String[] args) {
          // Cria um objeto Scanner para ler a entrada do usuário
