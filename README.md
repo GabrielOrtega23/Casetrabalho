@@ -19,3 +19,18 @@
 
 
 <h2>Dia da semana</h2>
+<p>O algoritmo vai solicitar um número de 1 a 7, o usúario vai digitar o número correspondente com o dia da semana</p>
+<img width="629" height="338" alt="image" src="https://github.com/user-attachments/assets/b336e82f-bd3f-4e04-8079-04926eacf83a" />
+<p>O int numero = scanner.nextInt(); Lê o número digitado pelo usuário</p>
+<img width="435" height="76" alt="image" src="https://github.com/user-attachments/assets/21782ef6-4738-4cb1-8488-66a5b2d79d47" />
+<p>Usa a estrutura switch-case para determinar o dia da semana correspondente</p>
+<img width="754" height="207" alt="image" src="https://github.com/user-attachments/assets/ba246aa5-9deb-43df-bd08-0a0034601434" />
+<p>Se o número for diferente de 1 a 7, exibe mensagem de erro</p>
+<img width="883" height="170" alt="image" src="https://github.com/user-attachments/assets/558a85bd-4cd7-437a-b04e-424d3b00e4d4" />
+<p>Deploy</p>
+<img width="329" height="276" alt="image" src="https://github.com/user-attachments/assets/5643a073-cdf2-4459-989e-190944bf9700" />
+
+
+
+
+
